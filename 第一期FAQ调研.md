@@ -20,7 +20,7 @@ Team: SCU-B418
 参考百度AnyQ Framework  
 ![baidu]( https://github.com/WenRichard/Intelligent-Furniture-FAQ/raw/master/Image/百度AnyQ.png "百度AnyQ Framework")  
 * ### **智能家居FAQ系统大体思路**
-  1.目标：自动回答用户提出的家电领域问题，也可以和用户“简答闲聊”  
+  1.目标：自动回答用户提出的家电领域问题，也可以和用户“简单闲聊”  
   2.类型：检索式QA-bot，偏向于智能能客服方向  
   3.准备：搜集家电领域的QA、闲聊语料  
   --家电领域QA: 搜集长虹家电等家电网站QA+拍脑袋制造QA+长虹集团提供QA等  
