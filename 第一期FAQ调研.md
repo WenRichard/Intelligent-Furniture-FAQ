@@ -11,7 +11,7 @@ Team: SCU-B418
 * [目录](#0)
    * [智能家居FAQ系统架构思考](#1)
    * [中文聊天机器人资源](#2)
-   * [项目数据集进展](#3)
+   * [项目数据集进展与规划](#3)
    * [Reference](#4)
    
 <h1 id="1">一、智能家居FAQ系统架构思考</h1>  
@@ -48,11 +48,30 @@ Team: SCU-B418
   二、”是什么？“之类的问题考虑转向KB-QA，”为什么“，”怎么做“转向FAQ  
   
 ## 检索模块  
+待更新
   
 ## 答案抽取模块
+待更新
 
+<h1 id="2">二、中文聊天机器人资源（开源模型）</h1>  
 
-<h1 id="2">二、中文聊天机器人资源</h1>  
+|标题|时间|类型|
+|-|-|-|
+|[基于中文知识库的聊天机器人](https://github.com/DouYishun/KB-QA)|2018/11/29|技术|
+|[一个汇总聊天机器人的网站](http://www.tensorflownews.com/category/chatbot/)|2018/11/29|技术|
+|[自己做聊天机器人网站](http://www.shareditor.com/bloglistbytag/?tagname=%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E5%81%9A%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA)|2018/11/29|技术|
+|[AI 产品经理的成长之路（ChatBot 方向）](https://www.jianshu.com/p/b9b3d1b0f1e1)|2018/11/29|综述|
+
+<h1 id="3">三、项目数据集进展</h1>  
+
+* #### 时间：2018/12/1 ##  
+  进展：1.爬取了[长虹家电官网](http://cn.changhong.com/fw/cjwt/czzd/) 首页>服务>常见问题>操作指导>下的家电信息QA对，并对噪声数据进行删选  
+  规划：1.爬取以下数据：首页>服务>常见问题>日常保养， 首页>服务>常见问题>故障排除， 首页>服务>自助排障，并对爬取数据进行去噪  
+  
+<h1 id="4">四、Reference</h1>  
+
+* #### [浅谈聊天机器人 ChatBot 涉及到的技术点 以及词性标注和关键字提取](https://blog.csdn.net/smilejiasmile/article/details/80967630)
+* #### [Chatbots 中对话式交互系统的分析与应用](https://blog.csdn.net/RA681t58CJxsgCkJ31/article/details/79738338)
 
 
 
