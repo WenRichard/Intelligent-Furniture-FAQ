@@ -16,6 +16,10 @@ Team: SCU-B418
    
 <h1 id="1">一、智能家居FAQ系统架构思考</h1>  
 
+## 系统架构
+参考百度AnyQ Framework  
+![baidu]( https://github.com/WenRichard/Intelligent-Furniture-FAQ/raw/master/Image/百度AnyQ.png "百度AnyQ Framework")  
+
 ## 提问处理模块  
 * ## **Part1 Sentence pair matching**  
   **词语多义性问题**  
