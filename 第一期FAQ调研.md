@@ -26,12 +26,18 @@ Team: SCU-B418
 ## 系统架构
 参考百度AnyQ Framework  
 ![baidu]( https://github.com/WenRichard/Intelligent-Furniture-FAQ/raw/master/Image/百度AnyQ.png "百度AnyQ Framework")  
+百度AnyQ Framework思路：  
+召回 + 排序  
+分为**字面检索模块（Term Retrieval）**和**语义检索模块（Semantic Retrieval）**
+1. 提前把历史文本语料索引在Elastic search这样的搜索引擎中，或者可以把相似模型对于问题的建模稠密向量用Faiss或者annoy工具索引起来  
+2. 当来了一个新问题的时候，就通过索引去搜索召回出历史语料中比较粗粒度的最相似TopK（这个时候TopK就可以降低到10或者20）问题即可  
+3. 用精细化的耗时的复杂语义模型去进一步匹配
 * ### **智能家居FAQ系统大体思路**
   1.目标：自动回答用户提出的家电领域问题，也可以和用户“简单闲聊”  
   2.类型：检索式QA-bot，偏向于智能能客服方向  
   3.准备：搜集家电领域的QA、闲聊语料  
-  --家电领域QA: 搜集长虹家电等家电网站QA+拍脑袋制造QA+长虹集团提供QA等(**要求答案很简单，且比较清晰**)  
-  --闲聊语料： 参考之前收集的小黄鸡等中文对话语料   
+  --家电领域QA: 搜集长虹家电等家电网站QA+拍脑袋制造QA+长虹集团提供QA等(**要求答案很简单，且比较清晰**)，**百度知道模块的百度类似问题推荐**     
+  --闲聊语料： 参考之前收集的小黄鸡等中文对话语料，**百度知道模块的百度类似问题推荐**   
   4.模型：  
   --用传统NLP模型捕捉词形、浅层语义信息 -- 做召回，缩小搜索空间  
   --用深度模型捕捉句子结构、深层语义信息 -- 对召回的item做rank  
@@ -105,6 +111,7 @@ Team: SCU-B418
 |[一个汇总聊天机器人的网站](http://www.tensorflownews.com/category/chatbot/)|2018/11/29|技术|
 |[自己做聊天机器人网站](http://www.shareditor.com/bloglistbytag/?tagname=%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E5%81%9A%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA)|2018/11/29|技术|
 |[AI 产品经理的成长之路（ChatBot 方向）](https://www.jianshu.com/p/b9b3d1b0f1e1)|2018/11/29|综述|
+|[智能客服FAQ问答任务的技术选型探讨](https://zhuanlan.zhihu.com/p/50799128)|2018/12/2|综述|
 
 <h1 id="3">三、项目数据集进展</h1>  
 
