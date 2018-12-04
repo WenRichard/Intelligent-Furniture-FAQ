@@ -124,6 +124,9 @@ Team: SCU-B418
 |[FAQ-Chat-Bot](https://github.com/donowhy/FAQ-Chat-Bot)|2018/12/04|Null|FAQ & retrieval|一般|
 |[Factoid-based-Question-Answer-Chatbot](https://github.com/vaibhawraj/Factoid-based-Question-Answer-Chatbot)|2018/12/04|Null|FAQ & retrieval|与项目相符|
 |[retrieval_chatbot_new](https://github.com/ricosr/retrieval_chatbot)|2018/12/04|Null|FAQ & retrieval|与项目相符|
+|[基于检索的简单问答系统](https://github.com/ShepherdX/retrieval_chatbot)|2018/12/04|Null|FAQ & retrieval|与项目相符|
+|[retrieval_chatbot2](https://github.com/llamazing/retrival-chatbot)|2018/12/04|Null|FAQ & retrieval|与项目非常相符|
+
 
 
 <h1 id="3">三、项目数据集进展</h1>  
