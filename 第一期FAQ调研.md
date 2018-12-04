@@ -131,7 +131,7 @@ Team: SCU-B418
 
 ### 参考案例
 |标题|时间|收录原因
-|-|-|
+|-|-|-|
 |[SmartHome](https://github.com/huangmeimao/SmartHome)|2018/12/4|可以搜集里面的指令数据以及参考模式|
 
 
