@@ -121,7 +121,10 @@ Team: SCU-B418
 |[FAQ-chatbot-for-energym](https://github.com/yafeunteun/FAQ-chatbot-for-energym)|2018/12/04|Rasa|FAQ & retrieval|重要|
 |[NTU_FAQs_Chatbot](https://github.com/trangnm58/NTU_FAQs_Chatbot)|2018/12/04|Null|FAQ & retrieval|与项目相符|
 |[retrieval-chatbot](https://github.com/simrat65/retrieval-chatbot)|2018/12/04|Null|FAQ & retrieval|一般|
-|[https://github.com/donowhy/FAQ-Chat-Bot](https://github.com/donowhy/FAQ-Chat-Bot)|2018/12/04|Nill|FAQ & retrieval|一般|
+|[FAQ-Chat-Bot](https://github.com/donowhy/FAQ-Chat-Bot)|2018/12/04|Null|FAQ & retrieval|一般|
+|[Factoid-based-Question-Answer-Chatbot](https://github.com/vaibhawraj/Factoid-based-Question-Answer-Chatbot)|2018/12/04|Null|FAQ & retrieval|与项目相符|
+|[retrieval_chatbot_new](https://github.com/ricosr/retrieval_chatbot)|2018/12/04|Null|FAQ & retrieval|与项目相符|
+
 
 <h1 id="3">三、项目数据集进展</h1>  
 
