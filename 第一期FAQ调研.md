@@ -129,6 +129,13 @@ Team: SCU-B418
 |[Chatbot-using-tensorflow](https://github.com/sujit0892/Chatbot-using-tensorflow)|2018/12/04|Null|FAQ & retrieval|一般|
 |[campus-chatbot](https://github.com/fuzzzycoder/campus-chatbot)|2018/12/04|Null|FAQ & retrieval|一般|
 
+### 参考案例
+|标题|时间|收录原因
+|-|-|
+|[SmartHome](https://github.com/huangmeimao/SmartHome)|2018/12/4|可以搜集里面的指令数据以及参考模式|
+
+
+
 
 
 <h1 id="3">三、项目数据集进展</h1>  
