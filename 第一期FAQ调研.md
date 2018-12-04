@@ -103,7 +103,7 @@ Team: SCU-B418
 ## 答案抽取模块
 待更新
 
-<h1 id="2">二、中文聊天机器人资源（开源模型）</h1>  
+<h1 id="2">二、聊天机器人资源（开源模型）</h1>  
 
 |标题|时间|类型|
 |-|-|-|
@@ -112,6 +112,16 @@ Team: SCU-B418
 |[自己做聊天机器人网站](http://www.shareditor.com/bloglistbytag/?tagname=%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E5%81%9A%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA)|2018/11/29|技术|
 |[AI 产品经理的成长之路（ChatBot 方向）](https://www.jianshu.com/p/b9b3d1b0f1e1)|2018/11/29|综述|
 |[智能客服FAQ问答任务的技术选型探讨](https://zhuanlan.zhihu.com/p/50799128)|2018/12/2|综述|
+
+|标题|时间|框架|类型|等级|
+|-|-|-|-|-|
+|[FAQ_Chatbot_Rasa](https://github.com/ajinkyaT/FAQ_Chatbot_Rasa)|2018/12/04|Rasa|FAQ & retrieval|重要|
+|[FAQ_Chatbot](https://github.com/Dk20/FAQ_Chatbot)|2018/12/04|Null|FAQ & retrieval|一般|
+|[nlp-faq-chatbot](https://github.com/vstiern/nlp-faq-chatbot)|2018/12/04|Null|FAQ & retrieval|一般|
+|[FAQ-chatbot-for-energym](https://github.com/yafeunteun/FAQ-chatbot-for-energym)|2018/12/04|Rasa|FAQ & retrieval|重要|
+|[NTU_FAQs_Chatbot](https://github.com/trangnm58/NTU_FAQs_Chatbot)|2018/12/04|Null|FAQ & retrieval|与项目相符|
+|[retrieval-chatbot](https://github.com/simrat65/retrieval-chatbot)|2018/12/04|Null|FAQ & retrieval|一般|
+|[https://github.com/donowhy/FAQ-Chat-Bot](https://github.com/donowhy/FAQ-Chat-Bot)|2018/12/04|Nill|FAQ & retrieval|一般|
 
 <h1 id="3">三、项目数据集进展</h1>  
 
