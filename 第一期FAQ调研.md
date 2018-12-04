@@ -133,10 +133,9 @@ Team: SCU-B418
 |标题|时间|收录原因
 |-|-|-|
 |[SmartHome](https://github.com/huangmeimao/SmartHome)|2018/12/4|可以搜集里面的指令数据以及参考模式|
-
-
-
-
+|[SmartAudioHome](https://github.com/Suhine/SmartAudioHome)|2018/12/4|智能音箱与智能家居的DIY，Smart Audio and Smart Home|
+|[BAIC-Imio-NLU](https://github.com/BaicProject/BAIC-Imio-NLU)|2018/12/4|OSHA定制的基于RASA框架的中文自然语言理解系统，用于智能家居语音交互的NLU解决方案|
+|[智能家居机器人](https://github.com/Kingzhoudk/JLing)|2018/12/4|智能家居机器人，采用aiml对话，采用arduino自动控制和远程控制家电|
 
 <h1 id="3">三、项目数据集进展</h1>  
 
