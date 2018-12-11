@@ -124,7 +124,7 @@ Team: SCU-B418
 |[FAQ-Chat-Bot](https://github.com/donowhy/FAQ-Chat-Bot)|2018/12/04|Null|FAQ & retrieval|很一般，做的很简单|
 |[Factoid-based-Question-Answer-Chatbot](https://github.com/vaibhawraj/Factoid-based-Question-Answer-Chatbot)|2018/12/04|Null|FAQ & retrieval|一般（检索答案所在的文章）|
 |[retrieval_chatbot_new](https://github.com/ricosr/retrieval_chatbot)|2018/12/04|Null|FAQ & retrieval|与项目相符|
-|[基于检索的简单问答系统](https://github.com/ShepherdX/retrieval_chatbot)|2018/12/04|Null|FAQ & retrieval|与项目相符|
+|[基于检索的简单问答系统](https://github.com/ShepherdX/retrieval_chatbot)|2018/12/04|Null|FAQ & retrieval|一般（没有调用库，速度慢）|
 |[retrieval_chatbot2](https://github.com/llamazing/retrival-chatbot)|2018/12/04|Null|FAQ & retrieval|与项目非常相符|
 |[Chatbot-using-tensorflow](https://github.com/sujit0892/Chatbot-using-tensorflow)|2018/12/04|Null|FAQ & retrieval|一般|
 |[campus-chatbot](https://github.com/fuzzzycoder/campus-chatbot)|2018/12/04|Null|FAQ & retrieval|一般|
