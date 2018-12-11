@@ -119,8 +119,8 @@ Team: SCU-B418
 |[FAQ_Chatbot](https://github.com/Dk20/FAQ_Chatbot)|2018/12/04|Null|FAQ & retrieval|一般|
 |[nlp-faq-chatbot](https://github.com/vstiern/nlp-faq-chatbot)|2018/12/04|Null|FAQ & retrieval|一般|
 |[FAQ-chatbot-for-energym](https://github.com/yafeunteun/FAQ-chatbot-for-energym)|2018/12/04|Rasa|FAQ & retrieval|重要|
-|[NTU_FAQs_Chatbot](https://github.com/trangnm58/NTU_FAQs_Chatbot)|2018/12/04|Null|FAQ & retrieval|与项目相符|
-|[retrieval-chatbot](https://github.com/simrat65/retrieval-chatbot)|2018/12/04|Null|FAQ & retrieval|一般|
+|[NTU_FAQs_Chatbot](https://github.com/trangnm58/NTU_FAQs_Chatbot)|2018/12/04|Null|FAQ & retrieval|与项目相符（用的全部都是NN方法求相似度）|
+|[retrieval-chatbot](https://github.com/simrat65/retrieval-chatbot)|2018/12/04|Null|FAQ & retrieval|一般（只用了sklearn的tf-idf计算相似度）|
 |[FAQ-Chat-Bot](https://github.com/donowhy/FAQ-Chat-Bot)|2018/12/04|Null|FAQ & retrieval|一般|
 |[Factoid-based-Question-Answer-Chatbot](https://github.com/vaibhawraj/Factoid-based-Question-Answer-Chatbot)|2018/12/04|Null|FAQ & retrieval|一般（检索答案所在的文章）|
 |[retrieval_chatbot_new](https://github.com/ricosr/retrieval_chatbot)|2018/12/04|Null|FAQ & retrieval|与项目相符|
