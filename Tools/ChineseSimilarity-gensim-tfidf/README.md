@@ -12,7 +12,7 @@
 7.创建索引   
 8.相似度计算并返回相似度最大的文本   
 """   
-   
+新增：bow2vec，可查看bow的内容
 可直接运行ChineseSimilartyCaculation.py   
 stopwords.txt为中文停用词表   
 
