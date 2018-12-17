@@ -111,8 +111,12 @@ Team: SCU-B418
 |[一个汇总聊天机器人的网站](http://www.tensorflownews.com/category/chatbot/)|2018/11/29|技术|
 |[自己做聊天机器人网站](http://www.shareditor.com/bloglistbytag/?tagname=%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E5%81%9A%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA)|2018/11/29|技术|
 |[AI 产品经理的成长之路（ChatBot 方向）](https://www.jianshu.com/p/b9b3d1b0f1e1)|2018/11/29|综述|
-|[智能客服FAQ问答任务的技术选型探讨](https://zhuanlan.zhihu.com/p/50799128)|2018/12/2|综述|
-
+|[智能客服FAQ问答任务的技术选型探讨](https://zhuanlan.zhihu.com/p/50799128)|2018/12/2|综述|  
+  
+ |标题|时间|框架|  
+ |-|-|-|
+ |[使用 RASA NLU 来构建中文自然语言理解系统（NLU）](https://github.com/Aguila-team/Chinese_NLU_by_using_RASA_NLU)|2018/12/17|Rasa|  
+   
 |标题|时间|框架|类型|等级|
 |-|-|-|-|-|
 |[FAQ_Chatbot_Rasa](https://github.com/ajinkyaT/FAQ_Chatbot_Rasa)|2018/12/04|Rasa|FAQ & retrieval|重要|
